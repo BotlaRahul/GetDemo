@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="sept22_testNG2.SchoolBeforeNAfterMethods"/>
+      <class name="sept22_testNG2.Emp"/>
+      <class name="sept22_testNG2.Student"/>
+      <class name="sept22_testNG2.School_priority"/>
+      <class name="sept22_testNG2.School_enabled_false"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
