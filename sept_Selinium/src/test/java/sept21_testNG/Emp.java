@@ -20,6 +20,25 @@ public class Emp {
   public void empInfo2() {
 	  System.out.println("emp name is Shiva");
   }
+
+ @Test
+  public void empInfo3() {
+	  System.out.println("emp name is Shiva");
+  }
+
+ @Test
+  public void empInfo4() {
+	  System.out.println("emp name is Shiva");
+  }
+
+@Test
+  public void empInfo5() {
+	  System.out.println("emp name is Shiva");
+  }
+@Test
+  public void empInfo6() {
+	  System.out.println("emp name is Shiva");
+  }
   @BeforeTest
   
   public void beforeTest() {
